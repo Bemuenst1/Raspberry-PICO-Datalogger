@@ -11,4 +11,5 @@ The configuration can be changed in the "settings.txt":
 At the end of the day the highest and lowest temperatures are saved into the "log.csv" file with their corrosponding timeprint.
 
 Feel free to ask about this project and have fun!
+
 Benjamin M.
