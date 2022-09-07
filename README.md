@@ -1,4 +1,4 @@
-#PICO-Datalogger\n
+#PICO-Datalogger
 This script loggs the temperature measured by the DHT22 sensor at pin 14 (Raspberry Pico).
 The sensor is connectet to the PICO as followed:
 
