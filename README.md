@@ -1,9 +1,6 @@
 #PICO-Datalogger
 
 This script loggs the temperature measured by the DHT22 sensor at pin 14 (Raspberry Pico).
-  The sensor is connectet to the PICO as followed:
-
-Image...
 
 At startup (when power is connected) the status-led of the PICO should blink twice!
 
