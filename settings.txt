@@ -1,0 +1,4 @@
+Start:
+0
+Reading-intervall:
+3600
